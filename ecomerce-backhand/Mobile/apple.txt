@@ -1,0 +1,114 @@
+Apple iPhone 15
+56,999
+https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeXWwg6crWgmRuLBswup1kCpwR8CwwNb_FmF1I-6BQdb7mpJmkHJo0El_irTFkmZEy__qOaElq46qmmcze06NcjJv87FqHOA
+Brand - Apple
+Operating System - iOS
+SIM Slots - Single SIM
+Connector Type - USB-C
+Broadband Generation - 5G
+SIM Card Size - Nano
+Screen Size - 6.1 inches screen
+Storage Capacity - 128 GB, 256 GB, 512 GB
+Rear Camera Resolution - 48 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+
+
+Apple iPhone 12
+37,999
+https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8-nVckGMqMBD99uo2EljoNlzLWliQjhaEAxGVk979_rqtPXRL5-5WNRNVNT1XVgwh5Beczra8jZdwhkEickf-uDJA14Y1emJfUtXIfUeK
+Brand - Apple
+Operating System - iOS
+Carrier -Verizon, Unlocked
+Smartphone - Yes
+Screen Resolution - 2532 x 1170
+SIM Slots - Single SIM
+Cellular Network - GSM Network, CDMA Network
+Broadband Generation - 5G
+Storage Capacity - 64 GB, 128 GB, 256 GB
+Rear Camera Resolution - 12 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+
+
+Apple iPhone 14 Plus
+58,999
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmz3TdQ5JXFcvQpv3x7OT7oYbzlFHf3C35YJFx5ozrWkHPL58aeix5HtcokRuEd9yQdpJjG8v0TiVRMMzvDzdfzX7cgUd4eaMmTAZ1nNQI
+Brand - Apple
+Operating System - iOS
+Smartphone - Yes
+Screen Resolution - 2778 x 1284
+SIM Slots - Single SIM
+Storage Capacity - 128 GB, 256 GB, 512 GB
+Rear Camera Resolution - 12 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+
+Apple iPhone 14
+57,999
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREthRGLqdxdLamjxmOzi9-dV2Rs1RcCjS8-2YLHuQBYPQ20P_vF8uBbyqh3LsS3_P6H23I1qtcW-tZELltv9_OCTymjGZOPoMKFGPPJuo52RjcvrnnQDSxHA
+Brand - Apple
+Operating System - iOS
+Screen Resolution - 2532 x 1170
+SIM Slots - Single SIM
+Cellular Network - GSM Network, CDMA Network
+Wireless Charging - Yes
+Broadband Generation - 5G
+SIM Card Size - Nano
+Storage Capacity - 128 GB, 256 GB, 512 GB
+Rear Camera Resolution - 12 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+
+
+Apple iPhone 14 Pro Max
+93,599
+https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZrh5aASUE1WN5iXux4TsqwhKRgqdNFxgFTd7_ibiIQ19gTS9UBRKoYDRKcd1rcehnIpzRHTCGSBUseOsRATxB9qosI1rmrZmvzRzXr_WF59u0QamRtqFVBFs
+Brand - Apple
+Operating System - iOS
+SIM Slots - Single SIM
+Cellular Network - GSM Network, CDMA Network
+Wireless Charging - Yes
+Broadband Generation - 5G
+Screen Size - 6.7 inches screen
+Storage Capacity - 128 GB, 256 GB, 512 GB, 1 TB
+Rear Camera Resolution - 48 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+
+Apple iPhone 14 Pro
+59,999
+https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1o1PQ252CJuZz8prfXTqFiGqr1I6pho3cElVaNt6Zv4IjAcagNw5CUI6MjbhljCn9DI3TKfVa0tZiGCM1f4MWrgJDAdCREzmBPBVsqKF20UYImNMYLYWdUw
+Brand - Apple
+Operating System - iOS
+SIM Slots - Dual SIM
+Broadband Generation - 5G
+Screen Size - 6.1 inches screen
+Storage Capacity - 128 GB
+Rear Camera Resolution - 12 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+
+
+Apple iPhone 13 Pro
+46,999
+https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUu3G5iMzMVFE-KwwTHlbJQEYYC2ktBthS7yGysLewFPgrB9LFER8-DxL_pmMAuHGs55bs-DwtAEiGVgLzLvoy6hgHZQhWlHL4KQn0mhTFl40NdD9NdcsA
+Brand - Apple
+Operating System -iOS
+Smartphone - Yes
+SIM Slots - Single SIM
+Broadband Generation - 5G
+Storage Capacity - 256 GB
+RAM - RAM: 6 GB
+
+
+Apple iPhone 12 mini
+27,000
+https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRT1AK_smJHoW-Vr6ep3YpA9Iv9jEZCwADuvdwZnnq2l0i0-UUZRi18X0_j8YTKJbgSSBHMHIhK0bslIk1Ks_suic1Jw770W29qXUkMy8Rk8KtzoAZ-9Nxa
+Brand Apple
+Operating System - iOS
+Carrier - Unlocked
+SIM Slots - Single SIM
+Connector Type - Lightning, Headphone Jack
+Cellular Network - GSM Network, CDMA Network
+Broadband Generation - 5G
+SIM Card Size - Nano
+Screen Size - 5.4 inches screen
+Storage Capacity - 64 GB, 128 GB, 256 GB
+Rear Camera Resolution - 12 MP Rear Camera
+Front Camera Resolution - 12 MP Front Camera
+RAM - RAM: 4 GB

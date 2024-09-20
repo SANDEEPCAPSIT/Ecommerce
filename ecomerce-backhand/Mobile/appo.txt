@@ -1,0 +1,34 @@
+OPPO K12x
+12,999.00
+https://www.91-img.com/pictures/162207-v3-oppo-k12x-mobile-phone-medium-1.jpg?tr=q-80
+Performance - Octa core (2.4 GHz, Dual Core + 2 GHz, Hexa Core) , MediaTek Dimensity 6300 , 6 GB RAM , Display - 6.67 inches (16.94 cm) , Camera - 32 MP + 2 MP Dual Primary Cameras , LED Flash , 8 MP Front Camera , Battery - 5100 mAh , Super VOOC Charging , USB Type-C Port
+
+
+OPPO F27 Pro Plus
+27,999.00
+https://www.91-img.com/pictures/162878-v2-oppo-f27-pro-plus-mobile-phone-medium-1.jpg?tr=q-80
+Performance - Octa core (2.6 GHz, Dual Core + 2 GHz, Hexa Core) , MediaTek Dimensity 7050 , 8 GB RAM , Display - 6.7 inches (17.02 cm) , Camera - 64 MP + 2 MP Dual Primary Cameras , LED Flash , 8 MP Front Camera , Battery - 5000 mAh , Super VOOC Charging , USB Type-C Port
+
+
+OPPO Reno12
+30,200.00
+https://www.91-img.com/pictures/161479-v8-oppo-reno12-mobile-phone-medium-1.jpg?tr=q-80
+Performance - Octa core (2.5 GHz, Quad Core + 2 GHz, Quad core) , MediaTek Dimensity 7300 Energy , 8 GB RAM , Display - 6.7 inches (17.02 cm) , FHD+, Flexible AMOLED , 120 Hz Refresh Rate , Camera - 50 MP + 8 MP + 2 MP Triple Primary Cameras , LED Flash , 32 MP Front Camera , Battery - 5000 mAh , Super VOOC Charging , USB Type-C Port
+
+
+OPPO A3 Pro
+17,999.00
+https://www.91-img.com/pictures/154914-v9-oppo-a3-pro-mobile-phone-medium-1.jpg?tr=q-80
+Performance - Octa core (2.4 GHz, Dual Core + 2 GHz, Hexa Core) , MediaTek Dimensity 6300 , 8 GB RAM , Display - 6.67 inches (16.94 cm) , HD+, LCD , 120 Hz Refresh Rate , Camera - 50 MP + 2 MP Dual Primary Cameras , LED Flash , 8 MP Front Camera , Battery - 5100 mAh , Super VOOC Charging , USB Type-C Port
+
+
+OPPO Reno12 Pro
+34,200.00
+https://www.91-img.com/pictures/161480-v8-oppo-reno12-pro-mobile-phone-medium-1.jpg?tr=q-80
+Performance - MediaTek Dimensity 7300 Energy , 12 GB RAM , Display - 6.7 inches (17.02 cm) , FHD+, Flexible AMOLED , 120 Hz Refresh Rate , Camera - 50 MP + 8 MP + 50 MP Triple Primary Cameras , LED Flash , 50 MP Front Camera , Battery - 5000 mAh , Super VOOC Charging , USB Type-C Port
+
+
+OPPO F25 Pro
+21,965.00
+https://www.91-img.com/pictures/150245-v4-oppo-f25-pro-mobile-phone-medium-1.jpg?tr=q-80
+Performance - Octa core (2.6 GHz, Dual Core + 2 GHz, Hexa Core) , MediaTek Dimensity 7050 , 8 GB RAM , Display - 6.7 inches (17.02 cm) , FHD+, AMOLED , 120 Hz Refresh Rate , Camera - 64 MP + 8 MP + 2 MP Triple Primary Cameras , LED Flash , 32 MP Front Camera , Battery - 5000 mAh , Super VOOC Charging , USB Type-C Port
